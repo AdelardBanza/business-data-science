@@ -8,5 +8,5 @@ These notebooks use Python 3.7.
 ## Table of contents
 
 * Targeting customers:
-    * [1: Targeting customers](https://github.com/AdelardBanza/business-data-science/blob/master/targeting_customers.ipynb)
+    * [1: Targeting customers](https://github.com/AdelardBanza/business-data-science/blob/master/direct_target_marketing.ipynb)
 
